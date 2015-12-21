@@ -1,0 +1,43 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.dep
+*.res
+*.resources
+*.vc*
+*.pdb
+*.sdf
+*.tlo*
+*.htm*
+*.suo
+*.idb
+*.filters
+*.ilk
+*.sln
+*.open*
+/sln/vc10/Debug/*
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
